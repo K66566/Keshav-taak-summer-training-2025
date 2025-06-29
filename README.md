@@ -113,4 +113,5 @@ When you type ls in the terminal, the Shell sends this request to the Kernel to 
 ➤ Definition:
 
 The Kernel is the core part of the operating system, which directly interacts with the hardware. It manages system resources like CPU, memory, disk, and devices, ensuring that hardware and software communicate correctly.
+![1_G__bnsHLTf1mOmhzlxmTpg](https://github.com/user-attachments/assets/2cce0b62-1f29-4b5c-8a96-9331270bfe4d)
 
