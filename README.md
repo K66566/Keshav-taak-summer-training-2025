@@ -72,4 +72,45 @@ mv source dest	Move/rename file/folder
 rm filename	Delete file
 rm -r folder	Delete folder and contents
 clear	Clear terminal screen
+![IMG_20250626_121356](https://github.com/user-attachments/assets/4a99661b-1258-46ee-92df-ba28ac81f687)
+🐚 Shell:
+
+➤ Definition:
+
+The Shell is a command-line interface (CLI) or a program that allows users to interact with the operating system. It takes commands from the user, interprets them, and passes them to the Kernel for execution.
+
+➤ Functions of Shell:
+
+Takes input from users.
+
+Interprets and translates it into a form the Kernel understands.
+
+Displays the output/result to the user.
+
+
+➤ Types of Shell:
+
+Bash (Bourne Again Shell) – Most common
+
+Sh (Bourne Shell)
+
+Csh (C Shell)
+
+Ksh (Korn Shell)
+
+Zsh (Z Shell)
+
+
+➤ Example:
+
+When you type ls in the terminal, the Shell sends this request to the Kernel to list files.
+
+
+---
+
+🧠 Kernel:
+
+➤ Definition:
+
+The Kernel is the core part of the operating system, which directly interacts with the hardware. It manages system resources like CPU, memory, disk, and devices, ensuring that hardware and software communicate correctly.
 
